@@ -1,5 +1,6 @@
 # 自己定义
 .idea/
+/password_dict/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
